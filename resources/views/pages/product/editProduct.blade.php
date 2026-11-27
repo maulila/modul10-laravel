@@ -55,7 +55,3 @@
         </form>
     </div>
 </div>
-@endsection
-```[cite: 5]
-
-Tinggal *copy-paste* ke file **`editProduct.blade.php`**, lalu *save*. Mau lanjut ke kode **`navbar.blade.php`** dan **`show.blade.php`**?
